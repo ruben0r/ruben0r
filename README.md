@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Bienvenido al Github de <a href="https://aristi.dev">Rubén Rodríguez García</a> 👋</h1>
+</div>
 
-<!--
-**ruben0r/ruben0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- Programador Fullstack especializado en páginas web.  
+- Grado superior de Desarrollo Multiplataforma.
+- Grado superior de Desarrollo Web.
+- Intento aprender algo nuevo cada día.
+- Siempre dispuesto a echar una mano y colaborar con el equipo.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruben0r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruben0r&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
