@@ -2,8 +2,14 @@
 <h1 align="center">Bienvenido al Github de <a href="https://aristi.dev">Rubén Rodríguez García</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/QDTYfio.png"/>
+
+<a href="https://www.linkedin.com/in/ruben-rodr%C3%ADguez-garc%C3%ADa-244055202/">
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+  
+</a>
+
+
 
 ## Sobre mi
 
