@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Bienvenido al Github de <a href="https://aristi.dev">Rubén Rodríguez García</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gLTolhi"/>
+<img src="[https://imgur.com/gLTolhi](https://i.imgur.com/QDTYfio.png)"/>
 ## Sobre mi
 
 - Programador Fullstack especializado en páginas web.  
