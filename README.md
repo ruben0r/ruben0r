@@ -9,6 +9,13 @@
   
 </a>
 
+<a style="position: relative;top: -45px;left: 130px;" href="https://drive.google.com/file/d/1jHC6chiQ5bhpQp6c86k8rEEL-XqrmbfB/view?usp=sharing">
+
+![Descargar](https://img.shields.io/badge/Descargar%20CV%20-8A2BE2)
+
+ 
+</a>
+
 
 
 ## Sobre mi
